@@ -1,0 +1,10 @@
+A simple invoice example.
+
+Usage:
+                     
+  # Produces file in output/invoice.pdf
+  $ ruby example.rb
+  
+The relevant Prawn code can be found in invoice.rb.  This demonstrates 
+subclassing Prawn::Document, which is a bit of a hack, but cleans some things
+up in the implementation.
