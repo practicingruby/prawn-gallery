@@ -1,0 +1,7 @@
+prawn-gallery : A place to show off your PDF awesomeness
+
+Contribute by forking, creating a folder for your example, and including all
+necessary files to make your code run.  Include a directory called output/ with
+a copy of your generated PDF, so people know what the output should look like.
+
+For a reference, see invoice-gtb/
