@@ -6,13 +6,12 @@ h2. Usage
 
 <pre>
 <code>
-	cd convert_comics_installation
-
-	./moebius.rb comic_file.cbr
+	cd prawn-gallery/moebius/
+	./moebius.rb example/Y-The_Last_Man-001-Excerpt.cbz
 </code>
 </pre>
 
-It'll output a _comic_file.pdf_ file in your current directory.
+It'll output a Y-The_Last_Man-001-Excerpt.pdf_ file in your current directory.
 
 h2. Requirements
 
