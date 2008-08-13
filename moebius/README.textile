@@ -11,10 +11,10 @@ h2. Usage
 </code>
 </pre>
 
-It'll output a Y-The_Last_Man-001-Excerpt.pdf_ file in your current directory.
+It'll output a Y-The_Last_Man-001-Excerpt.pdf_ file in the output/ directory
 
 h2. Requirements
 
 * Ruby 1.8
-* Unzip
-* Unrar
+* Unzip (for .cbz)
+* Unrar (for .cbr)
